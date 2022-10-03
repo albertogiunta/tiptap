@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0-beta.199](https://github.com/ueberdosis/tiptap/compare/v2.0.0-beta.198...v2.0.0-beta.199) (2022-09-30)
+
+
+### Bug Fixes
+
+* **extension/link:** :bug: fix last word value not being passed through when undefined ([#3258](https://github.com/ueberdosis/tiptap/issues/3258)) ([69923e2](https://github.com/ueberdosis/tiptap/commit/69923e2b0e1eff4e8bd6aab5f39c37f8ac8864cb))
+
+
+
+
+
+# [2.0.0-beta.198](https://github.com/ueberdosis/tiptap/compare/v2.0.0-beta.197...v2.0.0-beta.198) (2022-09-29)
+
+
+### Bug Fixes
+
+* **core:** InputRules does not work for ranges containing multiple text nodes ([#3205](https://github.com/ueberdosis/tiptap/issues/3205)) ([2f9ba32](https://github.com/ueberdosis/tiptap/commit/2f9ba324a03868283cf467520f99bd2a1596375a)), closes [#3071](https://github.com/ueberdosis/tiptap/issues/3071)
+* **link:** ensure text blocks exist before referencing them ([#3251](https://github.com/ueberdosis/tiptap/issues/3251)) ([539afce](https://github.com/ueberdosis/tiptap/commit/539afce4fd840941fc2335bf5843e6811b921674)), closes [#3250](https://github.com/ueberdosis/tiptap/issues/3250)
+* **suggestion:** set default allowedPrefixes null ([#3239](https://github.com/ueberdosis/tiptap/issues/3239)) ([04b9da4](https://github.com/ueberdosis/tiptap/commit/04b9da4760f467c446cbcf2fd08030e089d9be5f))
+
+
+
+
+
 # [2.0.0-beta.197](https://github.com/ueberdosis/tiptap/compare/v2.0.0-beta.196...v2.0.0-beta.197) (2022-09-26)
 
 
